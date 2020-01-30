@@ -1,5 +1,6 @@
+Codings for the project are in the University Management System folder.
 
-UMS app can run in any computers which has a MySQL sever...
+UMS.exe app can run in any computers which has a MySQL sever...
 
 	-> This App will autometically create the database and tables needed in your hard disk.
 
